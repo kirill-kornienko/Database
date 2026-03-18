@@ -19,8 +19,6 @@
 
 ![ecryptfs](https://github.com/kirill-kornienko/Host/blob/main/sudo%20ecryptfs.png)
 
-![sudo_ecryptfs](https://github.com/kirill-kornienko/Host/blob/main/sudo%20ecryptfs.png)
-
 ![toush](https://github.com/kirill-kornienko/Host/blob/main/touch.png)
 
 ![private](https://github.com/kirill-kornienko/Host/blob/main/private.png)
